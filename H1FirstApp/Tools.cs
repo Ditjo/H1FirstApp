@@ -10,7 +10,6 @@ namespace H1FirstApp
     {
         private static int counter;
 
-        //static string[] Players = new string[5];
         internal static void PrintArray(string[] Players)
         {
             foreach (var item in Players)
