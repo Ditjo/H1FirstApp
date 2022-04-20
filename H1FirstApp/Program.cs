@@ -11,7 +11,9 @@ namespace H1FirstApp
             //Skating.AdSkatingStuff();
             //Skating.PrintArray();
 
+            //Creating Array with Rugby Players
             Players = RugbyPlayers.AddRugbyPlayers();
+            //Printing them out
             Tools.PrintArray(Players);
         }
     }
